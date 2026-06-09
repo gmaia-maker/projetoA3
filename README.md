@@ -8,4 +8,4 @@ ra: 826169586 Gustavo Maia Serrano
 
 Projeto a3 sobre um caixa de superMercado, com comandos de cadastro de clientes, produtos selecionaveis e um sistema funcional de caixa
 
-## sdsdsdsdsd
+## Professor: Marcelo Amorim
