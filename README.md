@@ -2,6 +2,7 @@
 # Integrantes
 
 ra: 826193869 Kaua Da Silva Macedo
+
 ra: 826169586 Gustavo Maia Serrano
 
 # Sobre o projeto
