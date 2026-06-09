@@ -1,9 +1,9 @@
 
 # Integrantes
 
-ra: 826193869 Kaua Da Silva Macedo
+RA: 826169856 (Gustavo Maia Serrano);
 
-ra: 826169586 Gustavo Maia Serrano
+RA: 826193869 (Kaua Da Silva Macedo)
 
 # Sobre o projeto
 
